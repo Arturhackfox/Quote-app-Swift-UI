@@ -1,0 +1,26 @@
+
+[{
+    "name": "Dale Carnegie",
+    "quotes": ["Every man I meet is my superior in some way. In that, I learn of him", "Criticisms are like homing pigeons. They always return home", "Only knowledge that is used sticks in your mind", "The rare individual who unselfishly tries to serve others has an enormous advantage", "The only way I can get you to do anything is by giving you what you want" ],
+    "image": "ambition"
+},
+    {
+        "name": "Steve Jobs ",
+        "quotes": ["Innovation distinguishes between a leader and a follower", "Your time is limited, so don’t waste it living someone else’s life", "Don’t let the noise of others’ opinions drown out your own inner voice", "Stay hungry. Stay foolish", "You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new"],
+        "image": "calm"
+    },
+    {
+        "name": "Tim Cook",
+        "quotes": ["Excellence has become a habit", "You don't have to choose between doing good and doing well. It's a false choice, today more than ever", "I think that some people will never buy a computer because I think now we're at the point where the iPad does what some people want to do with their PCs", "We think the government should be pushing for more encryption. That it's a great thing. You know, it's like the sun and the air and the water", "To whom much is given, much is expected. I do believe this. It's embedded in me"],
+        "image": "focus"
+    },
+    {
+        "name": "Albert Einstein",
+        "quotes": ["We cannot solve our problems with the same thinking we used when we created them", "The true sign of intelligence is not knowledge but imagination", "I have no special talent. I am only passionately curious", "The only reason for time is so that everything doesn't happen at once", "Let us not forget that human knowledge and skills alone cannot lead humanity to a happy and dignified life"],
+        "image": "reflect"
+    },
+    {
+        "name": "Confucius Kongzi",
+        "quotes": ["Everything has beauty, but not everyone sees it", "They must often change who would be constant in happiness or wisdom", "It does not matter how slowly you go so long as you do not stop", "When anger rises, think of the consequences", "To see what is right, and not to do it, is want of courage or of principle"],
+        "image": "reflect2"
+    }]
