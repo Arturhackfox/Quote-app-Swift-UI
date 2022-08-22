@@ -20,7 +20,7 @@ struct card: View {
                 Image(author.image)
                     .resizable()
                     .frame(width: 360, height: 400)
-                    .cornerRadius(90)
+                    .cornerRadius(18)
                     .padding(.bottom, 18)
                 VStack(alignment: .leading, spacing: 7.0){
                     Text(author.quotes[0])
